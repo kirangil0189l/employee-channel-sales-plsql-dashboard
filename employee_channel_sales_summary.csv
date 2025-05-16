@@ -1,0 +1,243 @@
+﻿SUMMARY_ID,EMPLOYEE_ID,EMPLOYEE_NAME,DEPARTMENT_NAME,CHANNEL_DESC,TOTAL_SALES,TOTAL_QUANTITY
+1,119,Karen Colmenares,Purchasing,Catalog,217,5
+2,114,Den Raphaely,Purchasing,Partners,790122,7819
+3,199,Douglas Grant,Shipping,Partners,797641,7819
+4,189,Jennifer Dilly,Shipping,Tele Sales,8175,79
+5,182,Martha Sullivan,Shipping,Partners,800524,7819
+6,180,Winston Taylor,Shipping,Internet,429779,3700
+7,144,Peter Vargas,Shipping,Tele Sales,12751,80
+8,132,TJ Olson,Shipping,Tele Sales,9489,80
+9,130,Mozhe Atkinson,Shipping,Catalog,140,6
+10,121,Adam Fripp,Shipping,Catalog,481,9
+11,107,Diana Lorentz,IT,Internet,425101,3701
+12,103,Alexander Hunold,IT,Direct Sales,2756943,25730
+13,204,Hermann Baer,Public Relations,Partners,797720,7818
+14,179,Charles Johnson,Sales,Tele Sales,12407,80
+15,165,David Lee,Sales,Partners,802958,7819
+16,149,Eleni Zlotkey,Sales,Tele Sales,11045,80
+17,146,Karen Partners,Sales,Tele Sales,9257,80
+18,101,Neena Kochhar,Executive,Tele Sales,10025,80
+19,100,Steven King,Executive,Partners,807443,7819
+20,112,Jose Manuel Urman,Finance,Catalog,234,3
+21,205,Shelley Higgins,Accounting,Tele Sales,9157,79
+22,200,Jennifer Whalen,Administration,Direct Sales,2753733,25729
+23,203,Susan Mavris,Human Resources,Partners,796454,7818
+24,193,Britney Everett,Shipping,Tele Sales,8456,79
+25,192,Sarah Bell,Shipping,Tele Sales,12801,79
+26,188,Kelly Chung,Shipping,Direct Sales,2759775,25730
+27,184,Nandita Sarchand,Shipping,Tele Sales,9951,80
+28,181,Jean Fleaur,Shipping,Partners,803125,7819
+29,139,John Seo,Shipping,Partners,796874,7819
+30,136,Hazel Philtanker,Shipping,Tele Sales,12022,80
+31,129,Laura Bissot,Shipping,Catalog,162,1
+32,127,James Landry,Shipping,Direct Sales,2755854,25730
+33,126,Irene Mikkilineni,Shipping,Direct Sales,2749828,25730
+34,126,Irene Mikkilineni,Shipping,Internet,429637,3701
+35,122,Payam Kaufling,Shipping,Direct Sales,2754078,25730
+36,171,William Smith,Sales,Direct Sales,2752433,25730
+37,159,Lindsey Smith,Sales,Internet,421906,3700
+38,158,Allan McEwen,Sales,Internet,425768,3700
+39,157,Patrick Sully,Sales,Direct Sales,2751262,25730
+40,155,Oliver Tuvault,Sales,Partners,801614,7819
+41,153,Christopher Olsen,Sales,Tele Sales,7853,80
+42,151,David Bernstein,Sales,Internet,430703,3701
+43,147,Alberto Errazuriz,Sales,Internet,434510,3701
+44,102,Lex De Haan,Executive,Tele Sales,13690,80
+45,109,Daniel Faviet,Finance,Tele Sales,11446,80
+46,117,Sigal Tobias,Purchasing,Direct Sales,2756939,25730
+47,116,Shelli Baida,Purchasing,Internet,429616,3701
+48,196,Alana Walsh,Shipping,Partners,802057,7819
+49,196,Alana Walsh,Shipping,Internet,429474,3700
+50,191,Randall Perkins,Shipping,Partners,791031,7819
+51,188,Kelly Chung,Shipping,Internet,429667,3700
+52,177,Jack Livingston,Sales,Partners,796475,7819
+53,168,Lisa Ozer,Sales,Internet,419322,3700
+54,101,Neena Kochhar,Executive,Partners,804861,7819
+55,119,Karen Colmenares,Purchasing,Tele Sales,10687,80
+56,190,Timothy Gates,Shipping,Partners,791713,7819
+57,144,Peter Vargas,Shipping,Internet,434256,3701
+58,143,Randall Matos,Shipping,Internet,440426,3701
+59,141,Trenna Rajs,Shipping,Direct Sales,2767083,25730
+60,136,Hazel Philtanker,Shipping,Partners,789229,7819
+61,133,Jason Mallin,Shipping,Direct Sales,2758434,25730
+62,127,James Landry,Shipping,Catalog,471,7
+63,123,Shanta Vollman,Shipping,Partners,790125,7819
+64,105,David Austin,IT,Direct Sales,2755643,25730
+65,175,Alyssa Hutton,Sales,Direct Sales,2753770,25730
+66,166,Sundar Ande,Sales,Internet,422900,3700
+67,154,Nanette Cambrault,Sales,Direct Sales,2760885,25730
+68,152,Peter Hall,Sales,Partners,796597,7819
+69,113,Luis Popp,Finance,Partners,796902,7819
+70,118,Guy Himuro,Purchasing,Internet,425931,3701
+71,199,Douglas Grant,Shipping,Direct Sales,2752398,25730
+72,134,Michael Rogers,Shipping,Internet,429073,3701
+73,131,James Marlow,Shipping,Internet,428650,3701
+74,105,David Austin,IT,Tele Sales,15450,80
+75,174,Ellen Abel,Sales,Internet,425816,3700
+76,163,Danielle Greene,Sales,Partners,799188,7819
+77,161,Sarath Sewall,Sales,Partners,806006,7819
+78,148,Gerald Cambrault,Sales,Direct Sales,2762897,25730
+79,110,John Chen,Finance,Tele Sales,8782,80
+80,206,William Gietz,Accounting,Direct Sales,2760709,25729
+81,115,Alexander Khoo,Purchasing,Internet,427436,3701
+82,114,Den Raphaely,Purchasing,Internet,427021,3701
+83,194,Samuel McCain,Shipping,Partners,799932,7819
+84,187,Anthony Cabrio,Shipping,Partners,790152,7819
+85,140,Joshua Patel,Shipping,Internet,430515,3701
+86,135,Ki Gee,Shipping,Partners,797292,7819
+87,132,TJ Olson,Shipping,Partners,789419,7819
+88,122,Payam Kaufling,Shipping,Catalog,283,1
+89,120,Matthew Weiss,Shipping,Catalog,457,3
+90,104,Bruce Ernst,IT,Partners,812466,7819
+91,103,Alexander Hunold,IT,Catalog,184,2
+92,145,John Russell,Sales,Tele Sales,10952,80
+93,108,Nancy Greenberg,Finance,Internet,427308,3701
+94,202,Pat Fay,Marketing,Tele Sales,7415,79
+95,190,Timothy Gates,Shipping,Internet,432307,3700
+96,185,Alexis Bull,Shipping,Partners,794845,7819
+97,184,Nandita Sarchand,Shipping,Internet,426907,3700
+98,137,Renske Ladwig,Shipping,Partners,792377,7819
+99,128,Steven Markle,Shipping,Tele Sales,10623,80
+100,179,Charles Johnson,Sales,Internet,430427,3700
+101,176,Jonathon Taylor,Sales,Partners,799490,7819
+102,173,Sundita Kumar,Sales,Internet,421176,3700
+103,169,Harrison Bloom,Sales,Direct Sales,2757196,25730
+104,167,Amit Banda,Sales,Direct Sales,2752528,25730
+105,164,Mattea Marvins,Sales,Tele Sales,8453,80
+106,156,Janette King,Sales,Partners,805582,7819
+107,152,Peter Hall,Sales,Internet,429355,3701
+108,150,Peter Tucker,Sales,Tele Sales,12943,80
+109,149,Eleni Zlotkey,Sales,Direct Sales,2755676,25730
+110,108,Nancy Greenberg,Finance,Partners,808421,7819
+111,206,William Gietz,Accounting,Internet,426789,3700
+112,197,Kevin Feeney,Shipping,Tele Sales,14220,79
+113,192,Sarah Bell,Shipping,Internet,426585,3700
+114,142,Curtis Davies,Shipping,Internet,431904,3701
+115,139,John Seo,Shipping,Tele Sales,9388,80
+116,125,Julia Nayer,Shipping,Direct Sales,2747197,25730
+117,124,Kevin Mourgos,Shipping,Partners,792224,7819
+118,106,Valli Pataballa,IT,Tele Sales,9983,80
+119,169,Harrison Bloom,Sales,Internet,423583,3700
+120,111,Ismael Sciarra,Finance,Partners,805483,7819
+121,111,Ismael Sciarra,Finance,Catalog,327,9
+423,119,Karen Colmenares,Purchasing,Catalog,217,5
+424,114,Den Raphaely,Purchasing,Partners,790122,7819
+425,199,Douglas Grant,Shipping,Partners,797641,7819
+426,189,Jennifer Dilly,Shipping,Tele Sales,8175,79
+427,182,Martha Sullivan,Shipping,Partners,800524,7819
+428,180,Winston Taylor,Shipping,Internet,429779,3700
+429,144,Peter Vargas,Shipping,Tele Sales,12751,80
+430,132,TJ Olson,Shipping,Tele Sales,9489,80
+431,130,Mozhe Atkinson,Shipping,Catalog,140,6
+432,121,Adam Fripp,Shipping,Catalog,481,9
+433,107,Diana Lorentz,IT,Internet,425101,3701
+434,103,Alexander Hunold,IT,Direct Sales,2756943,25730
+435,204,Hermann Baer,Public Relations,Partners,797720,7818
+436,179,Charles Johnson,Sales,Tele Sales,12407,80
+437,165,David Lee,Sales,Partners,802958,7819
+438,149,Eleni Zlotkey,Sales,Tele Sales,11045,80
+439,146,Karen Partners,Sales,Tele Sales,9257,80
+440,101,Neena Kochhar,Executive,Tele Sales,10025,80
+441,100,Steven King,Executive,Partners,807443,7819
+442,112,Jose Manuel Urman,Finance,Catalog,234,3
+443,205,Shelley Higgins,Accounting,Tele Sales,9157,79
+444,200,Jennifer Whalen,Administration,Direct Sales,2753733,25729
+445,203,Susan Mavris,Human Resources,Partners,796454,7818
+446,193,Britney Everett,Shipping,Tele Sales,8456,79
+447,192,Sarah Bell,Shipping,Tele Sales,12801,79
+448,188,Kelly Chung,Shipping,Direct Sales,2759775,25730
+449,184,Nandita Sarchand,Shipping,Tele Sales,9951,80
+450,181,Jean Fleaur,Shipping,Partners,803125,7819
+451,139,John Seo,Shipping,Partners,796874,7819
+452,136,Hazel Philtanker,Shipping,Tele Sales,12022,80
+453,129,Laura Bissot,Shipping,Catalog,162,1
+454,127,James Landry,Shipping,Direct Sales,2755854,25730
+455,126,Irene Mikkilineni,Shipping,Direct Sales,2749828,25730
+456,126,Irene Mikkilineni,Shipping,Internet,429637,3701
+457,122,Payam Kaufling,Shipping,Direct Sales,2754078,25730
+458,171,William Smith,Sales,Direct Sales,2752433,25730
+459,159,Lindsey Smith,Sales,Internet,421906,3700
+460,158,Allan McEwen,Sales,Internet,425768,3700
+461,157,Patrick Sully,Sales,Direct Sales,2751262,25730
+462,155,Oliver Tuvault,Sales,Partners,801614,7819
+463,153,Christopher Olsen,Sales,Tele Sales,7853,80
+464,151,David Bernstein,Sales,Internet,430703,3701
+465,147,Alberto Errazuriz,Sales,Internet,434510,3701
+466,102,Lex De Haan,Executive,Tele Sales,13690,80
+467,109,Daniel Faviet,Finance,Tele Sales,11446,80
+468,117,Sigal Tobias,Purchasing,Direct Sales,2756939,25730
+469,116,Shelli Baida,Purchasing,Internet,429616,3701
+470,196,Alana Walsh,Shipping,Partners,802057,7819
+471,196,Alana Walsh,Shipping,Internet,429474,3700
+472,191,Randall Perkins,Shipping,Partners,791031,7819
+473,188,Kelly Chung,Shipping,Internet,429667,3700
+474,177,Jack Livingston,Sales,Partners,796475,7819
+475,168,Lisa Ozer,Sales,Internet,419322,3700
+476,101,Neena Kochhar,Executive,Partners,804861,7819
+477,119,Karen Colmenares,Purchasing,Tele Sales,10687,80
+478,190,Timothy Gates,Shipping,Partners,791713,7819
+479,144,Peter Vargas,Shipping,Internet,434256,3701
+480,143,Randall Matos,Shipping,Internet,440426,3701
+481,141,Trenna Rajs,Shipping,Direct Sales,2767083,25730
+482,136,Hazel Philtanker,Shipping,Partners,789229,7819
+483,133,Jason Mallin,Shipping,Direct Sales,2758434,25730
+484,127,James Landry,Shipping,Catalog,471,7
+485,123,Shanta Vollman,Shipping,Partners,790125,7819
+486,105,David Austin,IT,Direct Sales,2755643,25730
+487,175,Alyssa Hutton,Sales,Direct Sales,2753770,25730
+488,166,Sundar Ande,Sales,Internet,422900,3700
+489,154,Nanette Cambrault,Sales,Direct Sales,2760885,25730
+490,152,Peter Hall,Sales,Partners,796597,7819
+491,113,Luis Popp,Finance,Partners,796902,7819
+492,118,Guy Himuro,Purchasing,Internet,425931,3701
+493,199,Douglas Grant,Shipping,Direct Sales,2752398,25730
+494,134,Michael Rogers,Shipping,Internet,429073,3701
+495,131,James Marlow,Shipping,Internet,428650,3701
+496,105,David Austin,IT,Tele Sales,15450,80
+497,174,Ellen Abel,Sales,Internet,425816,3700
+498,163,Danielle Greene,Sales,Partners,799188,7819
+499,161,Sarath Sewall,Sales,Partners,806006,7819
+500,148,Gerald Cambrault,Sales,Direct Sales,2762897,25730
+501,110,John Chen,Finance,Tele Sales,8782,80
+502,206,William Gietz,Accounting,Direct Sales,2760709,25729
+503,115,Alexander Khoo,Purchasing,Internet,427436,3701
+504,114,Den Raphaely,Purchasing,Internet,427021,3701
+505,194,Samuel McCain,Shipping,Partners,799932,7819
+506,187,Anthony Cabrio,Shipping,Partners,790152,7819
+507,140,Joshua Patel,Shipping,Internet,430515,3701
+508,135,Ki Gee,Shipping,Partners,797292,7819
+509,132,TJ Olson,Shipping,Partners,789419,7819
+510,122,Payam Kaufling,Shipping,Catalog,283,1
+511,120,Matthew Weiss,Shipping,Catalog,457,3
+512,104,Bruce Ernst,IT,Partners,812466,7819
+513,103,Alexander Hunold,IT,Catalog,184,2
+514,145,John Russell,Sales,Tele Sales,10952,80
+515,108,Nancy Greenberg,Finance,Internet,427308,3701
+516,202,Pat Fay,Marketing,Tele Sales,7415,79
+517,190,Timothy Gates,Shipping,Internet,432307,3700
+518,185,Alexis Bull,Shipping,Partners,794845,7819
+519,184,Nandita Sarchand,Shipping,Internet,426907,3700
+520,137,Renske Ladwig,Shipping,Partners,792377,7819
+521,128,Steven Markle,Shipping,Tele Sales,10623,80
+522,179,Charles Johnson,Sales,Internet,430427,3700
+523,176,Jonathon Taylor,Sales,Partners,799490,7819
+524,173,Sundita Kumar,Sales,Internet,421176,3700
+525,169,Harrison Bloom,Sales,Direct Sales,2757196,25730
+526,167,Amit Banda,Sales,Direct Sales,2752528,25730
+527,164,Mattea Marvins,Sales,Tele Sales,8453,80
+528,156,Janette King,Sales,Partners,805582,7819
+529,152,Peter Hall,Sales,Internet,429355,3701
+530,150,Peter Tucker,Sales,Tele Sales,12943,80
+531,149,Eleni Zlotkey,Sales,Direct Sales,2755676,25730
+532,108,Nancy Greenberg,Finance,Partners,808421,7819
+533,206,William Gietz,Accounting,Internet,426789,3700
+534,197,Kevin Feeney,Shipping,Tele Sales,14220,79
+535,192,Sarah Bell,Shipping,Internet,426585,3700
+536,142,Curtis Davies,Shipping,Internet,431904,3701
+537,139,John Seo,Shipping,Tele Sales,9388,80
+538,125,Julia Nayer,Shipping,Direct Sales,2747197,25730
+539,124,Kevin Mourgos,Shipping,Partners,792224,7819
+540,106,Valli Pataballa,IT,Tele Sales,9983,80
+541,169,Harrison Bloom,Sales,Internet,423583,3700
+542,111,Ismael Sciarra,Finance,Partners,805483,7819
+543,111,Ismael Sciarra,Finance,Catalog,327,9
