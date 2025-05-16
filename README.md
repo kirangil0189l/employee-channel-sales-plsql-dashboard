@@ -66,3 +66,21 @@ employee-channel-sales-dashboard/
 ├── dashboard.twbx -- Tableau packaged workbook
 ├── README.md -- Project overview
 
+Key Assumptions
+
+Key Assumptions
+
+- Employees do not have assigned sales in the SH schema, so all assignments are simulated
+- Round-robin logic ensures fairness in distribution per channel
+- Average sales per employee is affected by both volume and department size
+  
+
+  Future Enhancements
+
+- Add `times` dimension to enable **time-series KPIs** (e.g., monthly trends)
+- Introduce performance bands or targets (e.g., highlight employees above target)
+- Include **customer or product-level breakdown** in future analysis
+
+  Author
+  **Sukhkirandeep Kaur Sidhu**
+  sukhkirandeep.kaur@gmail.com
