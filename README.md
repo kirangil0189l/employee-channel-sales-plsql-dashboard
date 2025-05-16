@@ -58,12 +58,19 @@ KPIs
 Project Structure
 
 employee-channel-sales-dashboard/
+
 ├── mapping.sql -- PL/SQL to create & populate mappings
+
 ├── round_robin_assignment.sql -- Distributes sales to employees per channel
+
 ├── summary.sql -- Table for dashboard-level summary
+
 ├── aggregation_proc.sql -- Procedure to summarize per-employee sales
+
 ├── emp_channel_sales_summary.csv -- Exported summary used in Tableau
+
 ├── dashboard.twbx -- Tableau packaged workbook
+
 ├── README.md -- Project overview
 
 Key Assumptions
